@@ -1,0 +1,10 @@
+base
+linux
+linux-firmware
+mkinitcpio
+mkinitcpio-archiso
+syslinux
+gnujump
+xorg-server
+xorg-xinit
+alsa-utils

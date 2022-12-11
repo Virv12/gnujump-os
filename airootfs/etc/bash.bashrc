@@ -1,0 +1,2 @@
+startx
+poweroff
