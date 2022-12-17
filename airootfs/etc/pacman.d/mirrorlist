@@ -1,0 +1,6 @@
+Server = http://arch.lucassymons.net/$repo/os/$arch
+Server = http://mirroir.labhouse.fr/arch/$repo/os/$arch
+Server = https://arch.lucassymons.net/$repo/os/$arch
+Server = http://mirror.metalgamer.eu/archlinux/$repo/os/$arch
+Server = http://ftp.ek-cer.hu/pub/mirrors/ftp.archlinux.org/$repo/os/$arch
+Server = http://mirroir.wptheme.fr/archlinux/$repo/os/$arch
